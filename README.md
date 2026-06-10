@@ -1,6 +1,6 @@
-# SistemaControlePatrimonialTInaGEXSTM
+# Sistema de Controle Patrimonial de equipamentos de TI na GEXSTM
 
-Sistema de controle patrimonial de equipamentos de TI da Gerência Executiva do INSS, totalmente desenvolvido em Java para auxiliar no gerenciamento de computadores, monitores e impressoras.
+Sistema para o controle patrimonial de equipamentos de TI da Gerência Executiva do INSS, totalmente desenvolvido em Java para auxiliar no gerenciamento de computadores, monitores e impressoras.
 
 ---
 
